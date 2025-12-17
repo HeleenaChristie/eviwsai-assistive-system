@@ -18,7 +18,8 @@ The objective of EVISWAI is to address the limitations of traditional screen rea
 - Tesseract OCR engine for text extraction  
 
 ## Repository Structure
-├── visable.py # Main application script integrating OCR, captioning, summarization, and TTS
-├── README.md # Project documentation
-├── LICENSE # License file
+├── visable.py    # Main application script integrating OCR, captioning, summarization, and TTS
+├── README.md     # Project documentation
+├── LICENSE       # License file
+
 
