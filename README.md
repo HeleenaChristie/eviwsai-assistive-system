@@ -21,4 +21,4 @@ The objective of EVISWAI is to address the limitations of traditional screen rea
 ├── visable.py # Main application script integrating OCR, captioning, summarization, and TTS
 ├── README.md # Project documentation
 ├── LICENSE # License file
-└── CITATION.cff # Citation metadata for academic use
+
